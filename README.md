@@ -83,7 +83,7 @@ Lasso Regression uses L1 regularization technique . It is used when we have more
    ![las](https://user-images.githubusercontent.com/109129303/178741355-539bfb09-a788-4c2a-98d0-701db9445986.jpg)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
    
-    <h2> :clipboard: Execution Instruction</h2>
+   
 <p>The order of execution of the program files is as follows:</p>
 
 
