@@ -81,5 +81,56 @@ Lasso Regression uses L1 regularization technique . It is used when we have more
    
    
    ![las](https://user-images.githubusercontent.com/109129303/178741355-539bfb09-a788-4c2a-98d0-701db9445986.jpg)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+   
+    <h2> :clipboard: Execution Instruction</h2>
+<p>The order of execution of the program files is as follows:</p>
 
+
+<p><b>1) Manoj_nyc_taxi_trip_time_prediction_.ipynb</b></p>
+<p> This file must be executed, to define all the functions and variables required for regression operations in which different models executed. and to evaluate the model performance on unseen data
+
+
+  
+  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+   
+     <!-- CREDITS -->
+<h2 id="credits"> :scroll: Credits</h2>
+
+< Manoj Korukonda > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+<p> <i> Contact me for Data Science Project Collaborations</i></p>
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-korukonda/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manoj-Korukonda)
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<h2> :books: References</h2>
+<ul>
+  <li><p>'NYC Taxi Trip Duration Prediction using Machine Learning'. [Online].</p>
+      <p>Available: https://medium.com/@ShortHills_Tech/nyc-taxi-trip-duration-prediction-using-machine-learning-a92874bd761
+  </li>
+  
+  <li><p>'XGBoost'. [Online].</p>
+      <p>Available: https://medium.com/sfu-cspmp/xgboost-a-deep-dive-into-boosting-f06c9c41349</p>
+  </li>
+  <li><p>'Linear Regression '. [Online].</p>
+      <p>Available:https://medium.com/analytics-vidhya/understanding-the-linear-regression-808c1f6941c0 /</p>
+  </li>
+  
+  
+  
+</ul>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+</p>
+  </li>
+  
+</ul>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
    
