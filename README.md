@@ -45,7 +45,31 @@ The data used in this study are all subsets of New York City Taxi, which contain
 <p> XGBoost is a powerful approach for building supervised regression models. The validity of this statement can be inferred by knowing about its (XGBoost) objective function and base learners. The objective function contains loss function and a regularization term. It tells about the difference between actual values and predicted values, i.e how far the model results are from the real values. The most common loss functions in XGBoost for regression problems is reg:linear, and that for binary classification is reg:logistics. Ensemble learning involves training and combining individual models (known as base learners) to get a single prediction, and XGBoost is one of the ensemble learning methods. XGBoost expects to have the base learners which are uniformly bad at the remainder so that when all the predictions are combined, bad predictions cancels out and better one sums up to form final good predictions.
 
 
-![Screenshot (31)](https://user-images.githubusercontent.com/102009481/177841156-6e6d4692-ef27-40b3-afd6-f84c60442ba2.png)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+   
+   
+<h2> :book: Linear Regression </h2>
+
+<p> Linear regression is one of the easiest and most popular Machine Learning algorithms. It is a statistical method that is used for predictive analysis. Linear regression makes predictions for continuous/real or numeric variables such as sales, salary, age, product price, etc.
+
+Linear regression algorithm shows a linear relationship between a dependent (y) and one or more independent (y) variables, hence called as linear regression. Since linear regression shows the linear relationship, which means it finds how the value of the dependent variable is changing according to the value of the independent variable.
+   
+   y= a0+a1x+ ε
+
+The linear regression model provides a sloped straight line representing the relationship between the variables. Consider the below image:
+   
+   
+
+![linear-regression-in-machine-learning](https://user-images.githubusercontent.com/109129303/178734810-7d3c637c-a4ba-4b6e-9b4a-4444608da597.png)
+   
+<h2> :book: Ridge Regression </h2>
+
+<p> The Ridge regression is a technique which is specialized to analyze multiple regression data which is multicollinearity in nature. Though linear regression and logistic regression are the most beloved members of the regression family, Ridge of L2 is a regularization model for linear regression
+   
+   For example, ridge regression can be used for the analysis of prostate-specific antigen and clinical measures among people who were about to have their prostates removed. The performance of ridge regression is good when there is a subset of true coefficients which are small or even zero. But it doesn’t give good results when all the true coefficients are moderately large. However, it can still perform linear regression over a narrow range of (small) λ values.
+   
+   ![1_XN9hxyk82UySDAvQ_9w76Q](https://user-images.githubusercontent.com/109129303/178737158-4ba6bf33-57e4-45c9-918d-6dbf0668724d.gif)
 
    
    
