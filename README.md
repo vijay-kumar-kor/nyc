@@ -71,6 +71,15 @@ The linear regression model provides a sloped straight line representing the rel
    
    
 ![rid](https://user-images.githubusercontent.com/109129303/178740313-b500f299-28a5-46ce-b4c6-6f50fdc9e380.jpg)
-
    
+   
+<h2> :book: Lasso Regression </h2>
+
+<p> Lasso regression is a regularization technique. It is used over regression methods for a more accurate prediction. This model uses shrinkage. Shrinkage is where data values are shrunk towards a central point as the mean. The lasso procedure encourages simple, sparse models (i.e. models with fewer parameters). This particular type of regression is well-suited for models showing high levels of multicollinearity or when you want to automate certain parts of model selection, like variable selection/parameter elimination.
+
+Lasso Regression uses L1 regularization technique . It is used when we have more features because it automatically performs feature selection.
+   
+   
+   ![las](https://user-images.githubusercontent.com/109129303/178741355-539bfb09-a788-4c2a-98d0-701db9445986.jpg)
+
    
