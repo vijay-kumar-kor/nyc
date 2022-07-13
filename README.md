@@ -69,7 +69,8 @@ The linear regression model provides a sloped straight line representing the rel
    
    For example, ridge regression can be used for the analysis of prostate-specific antigen and clinical measures among people who were about to have their prostates removed. The performance of ridge regression is good when there is a subset of true coefficients which are small or even zero. But it doesn’t give good results when all the true coefficients are moderately large. However, it can still perform linear regression over a narrow range of (small) λ values.
    
-   ![1_XN9hxyk82UySDAvQ_9w76Q](https://user-images.githubusercontent.com/109129303/178737158-4ba6bf33-57e4-45c9-918d-6dbf0668724d.gif)
+   
+![rid](https://user-images.githubusercontent.com/109129303/178740313-b500f299-28a5-46ce-b4c6-6f50fdc9e380.jpg)
 
    
    
