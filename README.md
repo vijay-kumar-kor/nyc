@@ -94,7 +94,7 @@ Lasso Regression uses L1 regularization technique . It is used when we have more
   
   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
    
-     <!-- CREDITS -->
+     
 <h2 id="credits"> :scroll: Credits</h2>
 
 < Manoj Korukonda > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
