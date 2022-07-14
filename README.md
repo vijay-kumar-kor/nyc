@@ -31,7 +31,7 @@ The data used in this study are all subsets of New York City Taxi, which contain
 
 <h4>Source Directories:</h4>
 <ul>
-  <li><b>Dataset</b> - Includes all dataset  for the training phase and testing phase of the model in the csv format.</li>
+  <li><b>Dataset</b> - Includes all dataset for the training phase and testing phase of the model in the csv format.</li>
   
 </ul>
 
